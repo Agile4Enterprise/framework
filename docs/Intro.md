@@ -1,1 +1,0 @@
-# Bienvenue dans le Framework Agile4Enterprise
