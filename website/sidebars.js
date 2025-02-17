@@ -1,11 +1,11 @@
 // @ts-check
 
 const sidebars = {
-  tutorialSidebar: [
+  docs: [
     {
-      type: 'category',
-      label: 'Documentation',
-      items: ['intro'], // ✅ Assure-toi que "intro" est bien défini
+      type: 'doc',
+      id: 'intro', // 👈 Assure-toi que l'ID correspond bien à `intro.md`
+      label: 'Introduction',
     },
   ],
 };
