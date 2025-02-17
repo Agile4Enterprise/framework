@@ -7,6 +7,12 @@ module.exports = {
   projectName: 'framework',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  scripts: [
+    {
+      src: '/framework/assets/js/main.js?v=' + new Date().getTime(), // 🚀 Ajoute un cache-buster
+      async: true,
+    },
+  ],
   presets: [
     [
       'classic',
