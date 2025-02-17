@@ -4,10 +4,11 @@ const sidebars = {
   docs: [
     {
       type: 'doc',
-      id: 'intro', // 👈 Assure-toi que l'ID correspond bien à `intro.md`
+      id: 'intro', // ✅ Correspond à l’ID défini dans `intro.md`
       label: 'Introduction',
     },
   ],
 };
 
 export default sidebars;
+
