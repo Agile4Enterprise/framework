@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main  # Exécute le workflow à chaque push sur "main"
-  workflow_dispatch:  # Permet de lancer manuellement le workflow depuis GitHub Actions
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow depuis GitHub Actions
 
 jobs:
   deploy:
@@ -23,17 +23,20 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
+          cd website
           npm install
 
       - name: 🚀 Build Docusaurus
         run: |
+          cd website
           npm run build
 
       - name: 🌍 Deploy to GitHub Pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          cd website
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           npm install -g gh-pages
-          npx gh-pages --dist build --branch gh-pages --repo https://github.com/${{ github.repository }}.git --message "🚀 Deploy Docusaurus site"
+          np
