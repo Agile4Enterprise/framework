@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'Framework',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },
