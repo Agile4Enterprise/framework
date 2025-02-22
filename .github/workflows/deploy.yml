@@ -25,10 +25,13 @@ jobs:
         run: |
           cd website
           npm install
-
-      - name: 🚀 Build Docusaurus
+          
+      - name: 🧹 Clean cache and rebuild
         run: |
           cd website
+          rm -rf node_modules .docusaurus build
+          npm install
+          npm run clean
           npm run build
 
       - name: 🌍 Deploy to GitHub Pages
