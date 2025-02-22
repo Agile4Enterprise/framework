@@ -31,7 +31,7 @@ jobs:
           cd website
           rm -rf node_modules .docusaurus build
           npm install
-          npm run clean
+          npm run clear
           npm run build
 
       - name: 🌍 Deploy to GitHub Pages
