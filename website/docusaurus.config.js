@@ -32,6 +32,7 @@ const config = {
       ({
         docs: {
           path: '../docs', // Permet d’utiliser le dossier docs à la racine du projet
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/Agile4Enterprise/framework/edit/main/docs/',
         },
