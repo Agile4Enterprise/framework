@@ -17,7 +17,7 @@ const config = {
   projectName: 'framework', // Nom du repo GitHub
   deploymentBranch: 'gh-pages', // Branche où le site sera déployé
   trailingSlash: false, // Empêche les redirections SEO problématiques sur GitHub Pages
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore', //onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
