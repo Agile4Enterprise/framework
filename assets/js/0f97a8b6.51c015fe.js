@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[558],{5812:e=>{e.exports=JSON.parse('{"tags":[{"label":"Framework","permalink":"/framework/blog/tags/framework","description":"Framework","count":1}]}')}}]);
