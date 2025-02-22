@@ -81,7 +81,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-
+          {
+            title: 'Documentation',
+            items: [
+              {
+                label: 'Framework',
+                to: '/docs/intro',
+              },
+            ],
+          },
           {
             title: 'Communauté',
             items: [
