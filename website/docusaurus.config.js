@@ -31,11 +31,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: '../docs', // Permet d’utiliser le dossier docs à la racine du projet
-          routeBasePath: 'docs',
+          path: '../docs',
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/Agile4Enterprise/framework/edit/main/docs/',
         },
+        
         blog: {
           showReadingTime: true,
           editUrl: 'https://github.com/Agile4Enterprise/framework/edit/main/blog/',
