@@ -2,7 +2,7 @@
 
 **Agile4Enterprise** est un framework agile conçu pour les PME, offrant une approche adaptée, évolutive et collaborative.  
 
-Ce Framework est en cour de rédaction. La version la plus aboutie est le **guide du Framework** à retrouver [ici](https://github.com/Agile4Enterprise/guide).
+Ce Framework est en cours de rédaction. La version la plus aboutie est le **guide du Framework** à retrouver [ici](https://github.com/Agile4Enterprise/guide).
 
 
 
