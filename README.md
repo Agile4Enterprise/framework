@@ -19,7 +19,13 @@ Ce Framework est en cours de rédaction. La version la plus aboutie est le **gui
 ## 💡 Comment contribuer ?  
 1. **Forker** le repo et créer une branche.  
 2. **Faire une Pull Request (PR)** avec votre contribution.  
-3. **Respecter les guidelines** du fichier [`CONTRIBUTING.md`](./CONTRIBUTING.md).  
+3. **Respecter les guidelines** du fichier [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+## 📥 Leframework en ligne
+
+📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/framework/)  
+📌 Le PDF du framework sera bientôt disponible ici
+<!--📌 Le PDF du guide est disponible ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/static/Agile4Enterprise.pdf)-->
 
 🔗 **Site officiel** : [Agile4Enterprise.com](https://agile4enterprise.com)  
 📜 **Licence** : [CC BY-ND + Accord Commercial](./LICENSE.md)  
