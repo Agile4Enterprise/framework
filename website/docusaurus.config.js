@@ -32,7 +32,6 @@ const config = {
       ({
         docs: {
           path: '../docs',
-          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/Agile4Enterprise/framework/edit/main/docs/',
         },
