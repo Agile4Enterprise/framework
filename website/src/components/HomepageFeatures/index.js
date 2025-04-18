@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Penser globalement, s’adapter localement',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nous proposons une approche qui répond de manière adaptée, durable et efficace aux défis des entreprises d’aujourd’hui. Ce Framework permet d’aligner la vision stratégique avec l’adaptabilité opérationnelle, maximisant ainsi l’impact tout en maîtrisant les risques.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: "Les 4 Dimensions de l'Agilité d'Entreprise",
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Si la capacité d’une entreprise à gérer le changement repose sur l’art de la prise de décision continue, alors cette dynamique s’organise autour des quatre niveaux décisionnels de l’entreprise.
+        Cela se manifeste par un alignement efficace entre les choix stratégiques et les actions opérationnelles.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: "Les 4 Archétypes d'une Organisation Adaptative",
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        En réponse à des enjeux stratégiques spécifiques, le Framework Agile4Enterprise propose quatre modèles organisationnels pour structurer votre transformation d’entreprise et soutenir vos ambitions.
       </>
     ),
   },
