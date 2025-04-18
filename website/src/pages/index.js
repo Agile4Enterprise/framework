@@ -18,15 +18,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/">
+            Framework Agile4Enterprise
           </Link>
-          <Link
-            className="button button--primary button--lg"
-            to="/framework/index">
-            📖 Accéder à la Documentation Agile4Enterprise
-          </Link>
-
         </div>
       </div>
     </header>
@@ -38,11 +32,12 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Framework Agile4Enterprise">
       <HomepageHeader />
       <main>
-      mettre ici la page d'acceuil
+        <HomepageFeatures />
       </main>
     </Layout>
   );
 }
+

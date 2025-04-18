@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'Framework',
-                to: '/',
+                to: '/docs/',
               },
             ],
           },
@@ -96,16 +96,16 @@ const config = {
             title: 'Communauté',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Site officiel',
+                href: 'https://agile4enterprise.com/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Circle',
+                href: 'http://community.agile4enterprise.com/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Meetup',
+                href: 'http://meetup.agile4enterprise.com/',
               },
             ],
           },
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Agile4Enterprise/framework',
+                href: 'https://github.com/Agile4Enterprise/guide',
               },
             ],
           },
