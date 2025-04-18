@@ -18,12 +18,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/intro">
+            to="/">
             Docusaurus Tutorial - 5min ⏱️
           </Link>
           <Link
             className="button button--primary button--lg"
-            to="/framework/intro">
+            to="/framework/index">
             📖 Accéder à la Documentation Agile4Enterprise
           </Link>
 
