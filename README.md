@@ -21,9 +21,9 @@ Ce Framework est en cours de rédaction. La version la plus aboutie est le **gui
 2. **Faire une Pull Request (PR)** avec votre contribution.  
 3. **Respecter les guidelines** du fichier [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
-## 📥 Leframework en ligne
+## 📥 Le framework en ligne
 
-📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/framework/)  
+📌 Le framework est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/framework/)  
 📌 Le PDF du framework sera bientôt disponible ici
 <!--📌 Le PDF du guide est disponible ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/static/Agile4Enterprise.pdf)-->
 
