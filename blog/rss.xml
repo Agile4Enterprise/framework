@@ -4,7 +4,7 @@
         <title>Agile4Enterprise - Le Framework Blog</title>
         <link>https://Agile4Enterprise.github.io/framework/blog</link>
         <description>Agile4Enterprise - Le Framework Blog</description>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 13:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
@@ -12,15 +12,15 @@
             <title><![CDATA[Agile4Enterprise : Le guide devient open source !]]></title>
             <link>https://Agile4Enterprise.github.io/framework/blog/guide-open-source</link>
             <guid>https://Agile4Enterprise.github.io/framework/blog/guide-open-source</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nous avons une grande nouvelle à partager avec vous : le guide du framework Agile4Enterprise est désormais open source ! 🚀]]></description>
-            <content:encoded><![CDATA[<p>Nous avons une grande nouvelle à partager avec vous : <strong>le guide du framework Agile4Enterprise est désormais open source !</strong> 🚀</p>
+            <pubDate>Sat, 19 Apr 2025 13:27:33 GMT</pubDate>
+            <description><![CDATA[Nous avons une grande nouvelle à partager avec vous : le Framework et le guide Agile4Enterprise est désormais open source ! 🚀]]></description>
+            <content:encoded><![CDATA[<p>Nous avons une grande nouvelle à partager avec vous : <strong>le Framework et le guide Agile4Enterprise est désormais open source !</strong> 🚀</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="pourquoi-cette-décision-">Pourquoi cette décision ?<a href="https://agile4enterprise.github.io/framework/blog/guide-open-source#pourquoi-cette-d%C3%A9cision-" class="hash-link" aria-label="Lien direct vers Pourquoi cette décision ?" title="Lien direct vers Pourquoi cette décision ?">​</a></h2>
-<p>Depuis le début de l’aventure Agile4Enterprise, notre objectif a toujours été clair : **rendre l’agilité accessible, évolutive et adaptée aux spécificités des PME. Nous croyons en une approche collaborative où chacun peut contribuer, apprendre et enrichir le framework avec ses propres expériences.</p>
+<p>Depuis le début de l’aventure Agile4Enterprise, notre objectif a toujours été clair : **rendre l’agilité accessible, évolutive et adaptée aux entreprises. Nous croyons en une approche collaborative où chacun peut contribuer, apprendre et enrichir le framework avec ses propres expériences.</p>
 <p>Mettre notre guide en open source s’inscrit pleinement dans cette vision :</p>
 <p>✅ <strong>Favoriser la transparence et l’accessibilité</strong> : Toute entreprise, consultant ou passionné d’agilité peut désormais accéder librement aux contenus et les adapter à ses besoins.</p>
 <p>✅ <strong>Encourager la contribution de la communauté</strong> : Que vous soyez praticien aguerri ou débutant, vos retours et suggestions sont les bienvenus pour enrichir le framework.</p>
-<p>✅ <strong>Accélérer l’innovation agile pour les PME</strong> : L’agilité ne doit pas être réservée aux grandes entreprises. Ensemble, nous pouvons créer des solutions pragmatiques et efficaces adaptées aux réalités des PME.</p>
+<p>✅ <strong>Accélérer l’innovation agile</strong> : L’agilité doit continuer d’évoluer, se réinventer et s'enrichir.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="où-trouver-le-guide-">Où trouver le guide ?<a href="https://agile4enterprise.github.io/framework/blog/guide-open-source#o%C3%B9-trouver-le-guide-" class="hash-link" aria-label="Lien direct vers Où trouver le guide ?" title="Lien direct vers Où trouver le guide ?">​</a></h2>
 <p>Le guide est disponible dès maintenant sur <strong>GitHub</strong>. Vous pouvez y accéder, proposer des améliorations et même contribuer directement via des Pull Requests. 🔗 <a href="https://github.com/Agile4Enterprise/guide" target="_blank" rel="noopener noreferrer">Lien vers le dépôt GitHub</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="comment-contribuer-">Comment contribuer ?<a href="https://agile4enterprise.github.io/framework/blog/guide-open-source#comment-contribuer-" class="hash-link" aria-label="Lien direct vers Comment contribuer ?" title="Lien direct vers Comment contribuer ?">​</a></h2>
@@ -29,17 +29,17 @@
 <li><strong>Lisez le guide</strong> : Découvrez les principes et bonnes pratiques du framework.</li>
 <li><strong>Suggérez des améliorations</strong> : Partagez vos retours via des Issues GitHub.</li>
 <li><strong>Proposez des mises à jour</strong> : Soumettez vos améliorations sous forme de Pull Requests.</li>
-<li><strong>Participez aux discussions</strong> : Rejoignez notre communauté pour échanger sur les évolutions du framework.</li>
+<li><strong>Participez aux discussions</strong> : Rejoignez notre communauté pour échanger sur les évolutions du Framework.</li>
 </ol>
-<p>👉 Pour en savoir plus sur les contributions, consultez notre <a href="https://github.com/Agile4Enterprise/guide/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">guide du contributeur</a>.</p>
+<p>👉 Pour en savoir plus sur les contributions, consultez notre <a href="https://github.com/Agile4Enterprise/framework/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">guide du contributeur</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="la-suite-">La suite ?<a href="https://agile4enterprise.github.io/framework/blog/guide-open-source#la-suite-" class="hash-link" aria-label="Lien direct vers La suite ?" title="Lien direct vers La suite ?">​</a></h2>
 <p>L’ouverture du guide en open source n’est qu’un début ! Nous travaillons activement sur :</p>
 <ul>
 <li><strong>Des modules de formation en ligne</strong> 📚</li>
-<li><strong>Des études de cas issues d'entreprises ayant adopté le Framework</strong> 🏢</li>
+<li><strong>Des études de cas issues d’entreprises ayant adopté le Framework</strong> 🏢</li>
 <li><strong>Une certification pour les praticiens Agile4Enterprise</strong> 🎓</li>
 </ul>
-<p>Nous avons hâte de construire cette nouvelle étape avec vous ! Rejoignez-nous dès aujourd’hui et contribuez à rendre l’agilité encore plus accessible aux PME.</p>
+<p>Nous avons hâte de construire cette nouvelle étape avec vous ! Rejoignez-nous dès aujourd’hui et contribuez à rendre l’agilité encore plus accessible aux entreprises.</p>
 <p>📩 <strong>Des questions, des idées ?</strong> Contactez-nous sur <a href="https://a4e-community.slack.com/" target="_blank" rel="noopener noreferrer">notre Slack communautaire</a> ou laissez un commentaire ci-dessous !</p>
 <p>À très bientôt sur GitHub ! 🚀</p>]]></content:encoded>
             <category>Framework</category>
