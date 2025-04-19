@@ -79,6 +79,7 @@ Je commence alors à formaliser le **framework** et son **guide utilisateur**, e
 Le framework devient [**open source**](https://agile4enterprise.github.io/framework/blog/guide-open-source).
 
 ### 🧪 Formation Crash test avec la crème des agilistes :
+![Formation pilote](./formation-pilote.jpg)
 - Romain Couturier  
 - Philippe Bourgeon  
 - Stéphane Bretonneau
