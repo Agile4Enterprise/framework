@@ -66,7 +66,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
             href: 'https://agile4enterprise.github.io/guide/',
             label: 'Guide',
             position: 'left',
@@ -79,7 +78,6 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            type: 'docSidebar',
             href: 'https://github.com/Agile4Enterprise/framework',
             label: 'GitHub',
             position: 'right',
