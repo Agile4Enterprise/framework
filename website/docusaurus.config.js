@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Agile4Enterprise',
-  tagline: 'Un cadre agile pour les entreprisesTransformer durablement votre manière de faire du business',
+  tagline: 'Transformer durablement votre manière de faire du business',
   favicon: 'img/logo.svg',
 
   // URL de production (remplacez par votre domaine final si applicable)

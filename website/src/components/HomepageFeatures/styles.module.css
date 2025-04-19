@@ -1,11 +1,34 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 4rem 0;
   width: 100%;
+  background-color: #4d63cd;
+  color: white;
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+  margin: auto;
+  fill: white;
+}
+
+/* Optionnel : garantir la lisibilité des titres et paragraphes */
+.features h3,
+.features p {
+  color: white;
+}
+
+/* Bouton personnalisé (si présent dans la section) */
+.features .button.button--secondary.button--lg {
+  background-color: #0025a0;
+  border: 1px solid #001c80;
+  color: white;
+}
+
+.features .button.button--secondary.button--lg:hover {
+  background-color: #001c80;
+  border-color: #00156b;
+  color: #ffffff;
 }
