@@ -1,6 +1,6 @@
 ---
 slug: guide-open-source
-title: "Agile4Enterprise : Le guide devient open source !"
+title: "Le Framework devient open source !"
 authors: [laurent]
 tags: [framework]
 ---
