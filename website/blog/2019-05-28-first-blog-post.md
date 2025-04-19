@@ -41,11 +41,11 @@ Nous avons mis en place un processus simple pour faciliter la participation :
 L’ouverture du guide en open source n’est qu’un début ! Nous travaillons activement sur :
 
 - **Des modules de formation en ligne** 📚
-- **Des études de cas issues de PME ayant adopté le framework** 🏢
+- **Des études de cas issues d'entreprises ayant adopté le Framework** 🏢
 - **Une certification pour les praticiens Agile4Enterprise** 🎓
 
 Nous avons hâte de construire cette nouvelle étape avec vous ! Rejoignez-nous dès aujourd’hui et contribuez à rendre l’agilité encore plus accessible aux PME.
 
-📩 **Des questions, des idées ?** Contactez-nous sur [notre Slack communautaire](https://agile4enterprise.slack.com) ou laissez un commentaire ci-dessous !
+📩 **Des questions, des idées ?** Contactez-nous sur [notre Slack communautaire](https://a4e-community.slack.com) ou laissez un commentaire ci-dessous !
 
 À très bientôt sur GitHub ! 🚀
