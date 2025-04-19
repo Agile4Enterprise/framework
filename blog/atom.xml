@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Agile4Enterprise.github.io/framework/blog</id>
-    <title>Agile4Enterprise - Le Framework Blog</title>
+    <title>Agile4Enterprise Blog</title>
     <updated>2025-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Agile4Enterprise.github.io/framework/blog"/>
-    <subtitle>Agile4Enterprise - Le Framework Blog</subtitle>
-    <icon>https://Agile4Enterprise.github.io/framework/img/favicon.ico</icon>
+    <subtitle>Agile4Enterprise Blog</subtitle>
+    <icon>https://Agile4Enterprise.github.io/framework/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[Le Framework devient open source !]]></title>
         <id>https://Agile4Enterprise.github.io/framework/blog/guide-open-source</id>
