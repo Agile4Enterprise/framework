@@ -3,9 +3,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Agile4Enterprise - Le Framework',
-  tagline: 'Un cadre agile pour les entreprises',
-  favicon: 'img/favicon.ico',
+  title: 'Agile4Enterprise',
+  tagline: 'Un cadre agile pour les entreprisesTransformer durablement votre manière de faire du business',
+  favicon: 'img/logo.svg',
 
   // URL de production (remplacez par votre domaine final si applicable)
   url: 'https://Agile4Enterprise.github.io',
@@ -67,12 +67,19 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            href: 'https://agile4enterprise.github.io/guide/',
+            label: 'Guide',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Framework',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
+            type: 'docSidebar',
             href: 'https://github.com/Agile4Enterprise/framework',
             label: 'GitHub',
             position: 'right',
@@ -88,6 +95,10 @@ const config = {
               {
                 label: 'Framework',
                 to: '/docs/',
+              },
+              {
+                label: 'Guide',
+                href: 'https://agile4enterprise.github.io/guide/',
               },
             ],
           },
@@ -116,13 +127,17 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub Framework',
+                href: 'https://github.com/Agile4Enterprise/framework',
+              },
+              {
+                label: 'GitHub Guide',
                 href: 'https://github.com/Agile4Enterprise/guide',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise. Construit avec Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise`,
       },
       prism: {
         theme: prismThemes.github,
