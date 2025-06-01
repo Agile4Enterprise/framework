@@ -8,9 +8,9 @@ const config = {
   favicon: 'img/logo.svg',
 
   // URL de production (remplacez par votre domaine final si applicable)
-  url: 'https://Agile4Enterprise.github.io',
+  url: 'https://framework.agile4enterprise.com',
   // Base URL pour GitHub Pages
-  baseUrl: '/framework/',
+  baseUrl: '/',
 
   // Configuration pour GitHub Pages
   organizationName: 'Agile4Enterprise', // Nom de l'organisation GitHub
