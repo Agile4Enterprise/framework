@@ -109,11 +109,11 @@ const config = {
               },
               {
                 label: 'Circle',
-                href: 'http://community.agile4enterprise.com/',
+                href: 'https://community.readaptative.com/',
               },
               {
                 label: 'Meetup',
-                href: 'http://meetup.agile4enterprise.com/',
+                href: 'https://meetup.readaptative.com/',
               },
             ],
           },
