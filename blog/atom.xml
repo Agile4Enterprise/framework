@@ -2,11 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://framework.agile4enterprise.com/blog</id>
     <title>Agile4Enterprise Blog</title>
-    <updated>2025-04-19T00:00:00.000Z</updated>
+    <updated>2025-06-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://framework.agile4enterprise.com/blog"/>
     <subtitle>Agile4Enterprise Blog</subtitle>
     <icon>https://framework.agile4enterprise.com/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Ouverture de la phase de relecture du guide A4E (v1)]]></title>
+        <id>https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture</id>
+        <link href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture"/>
+        <updated>2025-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Un cadre n’est vivant que s’il est frictionné.]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>Un cadre n’est vivant que s’il est frictionné.</strong><br>
+<!-- -->Ce 13 juin 2025, nous ouvrons officiellement la <strong>phase de relecture contributive</strong> du guide <em>Agile4Enterprise – Version 1 (bêta)</em>.</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ce-que-contient-cette-phase">🔎 Ce que contient cette phase<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#-ce-que-contient-cette-phase" class="hash-link" aria-label="Lien direct vers 🔎 Ce que contient cette phase" title="Lien direct vers 🔎 Ce que contient cette phase">​</a></h2>
+<p>🗓 Du 13 juin au 11 juillet, vous êtes invité·es à :</p>
+<ul>
+<li><strong>Lire le guide intégralement ou par fragments</strong></li>
+<li><strong>Identifier ce qui manque, résiste, trouble, dysfonctionne</strong></li>
+<li><strong>Documenter vos retours de façon argumentée</strong></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-deux-types-de-contributeurs">👥 Deux types de contributeurs<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#-deux-types-de-contributeurs" class="hash-link" aria-label="Lien direct vers 👥 Deux types de contributeurs" title="Lien direct vers 👥 Deux types de contributeurs">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-relecteurs-engagés">1. Relecteurs engagés<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#1-relecteurs-engag%C3%A9s" class="hash-link" aria-label="Lien direct vers 1. Relecteurs engagés" title="Lien direct vers 1. Relecteurs engagés">​</a></h3>
+<ul>
+<li>20 places limitées</li>
+<li>Accès Notion avec commentaires activés</li>
+<li>Restitution collective visio</li>
+<li>Mention dans la version imprimée + exemplaire offert</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-contributeurs-libres">2. Contributeurs libres<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#2-contributeurs-libres" class="hash-link" aria-label="Lien direct vers 2. Contributeurs libres" title="Lien direct vers 2. Contributeurs libres">​</a></h3>
+<ul>
+<li>Lecture sur <a href="https://framework.agile4enterprise.com/guide" target="_blank" rel="noopener noreferrer">framework.agile4enterprise.com/guide</a></li>
+<li>Feedback via issues GitHub</li>
+<li>Forks, propositions, contre-cadres, questions ouvertes</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-pourquoi-cette-relecture-est-ouverte">🚀 Pourquoi cette relecture est ouverte<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#-pourquoi-cette-relecture-est-ouverte" class="hash-link" aria-label="Lien direct vers 🚀 Pourquoi cette relecture est ouverte" title="Lien direct vers 🚀 Pourquoi cette relecture est ouverte">​</a></h2>
+<p>Parce que ce guide <strong>n’est pas une méthode</strong>, mais une <strong>ossature stratégique</strong>.<br>
+<!-- -->Parce qu’aucune équipe ne devrait adopter un cadre sans l’avoir mis à l’épreuve de ses tensions.<br>
+<!-- -->Parce que le vrai test n’est pas théorique — il est structurel, contextuel, terrain.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-liens-utiles">🔗 Liens utiles<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#-liens-utiles" class="hash-link" aria-label="Lien direct vers 🔗 Liens utiles" title="Lien direct vers 🔗 Liens utiles">​</a></h2>
+<ul>
+<li>🌍 Page de lancement : <a href="https://agile4enterprise.com/lancement-framework-agile4enterprise-v1/" target="_blank" rel="noopener noreferrer">agile4enterprise.com/lancement-framework-agile4enterprise-v1</a></li>
+<li>📖 Guide complet en ligne : <a href="https://guide.agile4enterprise.com/docs" target="_blank" rel="noopener noreferrer">guide.agile4enterprise.com</a></li>
+<li>💻 GitHub : <a href="https://github.com/Agile4Enterprise/guide" target="_blank" rel="noopener noreferrer">github.com/Agile4Enterprise/guide</a></li>
+<li>✍️ Relecture structurée (Notion, relecteurs engagés) : <em>(lien privé sur demande)</em></li>
+<li>📅 Événement de lancement (13 juin) : <a href="https://community.readaptative.com/c/evenements-8ebe9d/lancement-phase-de-relecture-du-guide-a4e" target="_blank" rel="noopener noreferrer">Live Stream à 13h15 - 14h00</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-un-seul-guide-deux-manières-dy-mettre-votre-empreinte">🧭 Un seul guide. Deux manières d’y mettre votre empreinte.<a href="https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture#-un-seul-guide-deux-mani%C3%A8res-dy-mettre-votre-empreinte" class="hash-link" aria-label="Lien direct vers 🧭 Un seul guide. Deux manières d’y mettre votre empreinte." title="Lien direct vers 🧭 Un seul guide. Deux manières d’y mettre votre empreinte.">​</a></h2>
+<p>Vous avez jusqu’au <strong>11 juillet</strong> pour jouer votre rôle : <strong>catalyseur</strong> ou <strong>frictionneur</strong>.</p>]]></content>
+        <author>
+            <name>Laurent Morisseau</name>
+            <uri>https://www.morisseauconsulting.com/</uri>
+        </author>
+        <category label="guide" term="guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Framework devient open source !]]></title>
         <id>https://framework.agile4enterprise.com/blog/guide-open-source</id>
