@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://framework.agile4enterprise.com/blog</id>
     <title>Agile4Enterprise Blog</title>
-    <updated>2025-06-09T00:00:00.000Z</updated>
+    <updated>2025-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://framework.agile4enterprise.com/blog"/>
     <subtitle>Agile4Enterprise Blog</subtitle>
     <icon>https://framework.agile4enterprise.com/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Clôture de la phase de relecture du guide A4E (v1)]]></title>
+        <id>https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet</id>
+        <link href="https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📘 Clôture de la phase de relecture du guide A4E (v1)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-clôture-de-la-phase-de-relecture-du-guide-a4e-v1">📘 Clôture de la phase de relecture du guide A4E (v1)<a href="https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet#-cl%C3%B4ture-de-la-phase-de-relecture-du-guide-a4e-v1" class="hash-link" aria-label="Lien direct vers 📘 Clôture de la phase de relecture du guide A4E (v1)" title="Lien direct vers 📘 Clôture de la phase de relecture du guide A4E (v1)">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="relectures-contributives">Relectures contributives<a href="https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet#relectures-contributives" class="hash-link" aria-label="Lien direct vers Relectures contributives" title="Lien direct vers Relectures contributives">​</a></h3>
+<blockquote>
+<p>Ce 13 juin 2025, nous avons ouvert officiellement la <strong>phase de relecture contributive</strong> du guide <em>Agile4Enterprise – Version 1 (bêta)</em>.</p>
+</blockquote>
+<p>Je remercie tous les relecteurs assidus qui ont permis de monter le niveau de ce guide :<br>
+<strong>Aurore Chailloux, Calis, Cyril Stock, Ysn Hajji, Alison Jorre, Laetitia Thernier, Ludovic Lajoie, Laurent Vidal, Gilles Masy, Maxence Musset, Pierre Neis, Sami Hadhri, Nico Tondeur.</strong></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-release-notes--juillet-2025">✨ Release notes – Juillet 2025<a href="https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet#-release-notes--juillet-2025" class="hash-link" aria-label="Lien direct vers ✨ Release notes – Juillet 2025" title="Lien direct vers ✨ Release notes – Juillet 2025">​</a></h3>
+<p>Suite à ces relectures, nous avons créé la release de juillet 2025 contenant :</p>
+<ul>
+<li>Consolidation du fil rouge <strong>TechNova</strong> dans l’ensemble du guide</li>
+<li>Ajout de blocs <strong>"Petit lexique"</strong> et <strong>"Ce que vous allez apprendre"</strong> dans plusieurs chapitres</li>
+<li>Suppression du chapitre <strong>"L'Agilité opérationnelle en action"</strong></li>
+<li>Suppression du chapitre <strong>"Diagnostic Agile4Enterprise"</strong></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-liens-utiles">🔗 Liens utiles<a href="https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet#-liens-utiles" class="hash-link" aria-label="Lien direct vers 🔗 Liens utiles" title="Lien direct vers 🔗 Liens utiles">​</a></h2>
+<ul>
+<li>🌍 Page de lancement : <a href="https://agile4enterprise.com/lancement-framework-agile4enterprise-v1/" target="_blank" rel="noopener noreferrer">agile4enterprise.com/lancement-framework-agile4enterprise-v1</a></li>
+<li>📖 Guide complet en ligne : <a href="https://guide.agile4enterprise.com/docs" target="_blank" rel="noopener noreferrer">guide.agile4enterprise.com</a></li>
+<li>💻 GitHub : <a href="https://github.com/Agile4Enterprise/guide" target="_blank" rel="noopener noreferrer">github.com/Agile4Enterprise/guide</a></li>
+</ul>]]></content>
+        <author>
+            <name>Laurent Morisseau</name>
+            <uri>https://www.morisseauconsulting.com/</uri>
+        </author>
+        <category label="guide" term="guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ouverture de la phase de relecture du guide A4E (v1)]]></title>
         <id>https://framework.agile4enterprise.com/blog/2025-06-09-phase-relecture</id>
