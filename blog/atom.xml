@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://framework.agile4enterprise.com/blog</id>
     <title>Agile4Enterprise Blog</title>
-    <updated>2025-07-22T00:00:00.000Z</updated>
+    <updated>2025-08-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://framework.agile4enterprise.com/blog"/>
     <subtitle>Agile4Enterprise Blog</subtitle>
     <icon>https://framework.agile4enterprise.com/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Phase de relecture pour la première édition du guide A4E (v1)]]></title>
+        <id>https://framework.agile4enterprise.com/blog/2025-08-25-version-aout</id>
+        <link href="https://framework.agile4enterprise.com/blog/2025-08-25-version-aout"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Phase de relecture pour l'édition V1 officielle]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="phase-de-relecture-pour-lédition-v1-officielle">Phase de relecture pour l'édition V1 officielle<a href="https://framework.agile4enterprise.com/blog/2025-08-25-version-aout#phase-de-relecture-pour-l%C3%A9dition-v1-officielle" class="hash-link" aria-label="Lien direct vers Phase de relecture pour l'édition V1 officielle" title="Lien direct vers Phase de relecture pour l'édition V1 officielle">​</a></h2>
+<p>Après la relecture contributive, une phase approfondie de relecture personnelle a été menée en préparation de la première édition. À cette occasion, tous les chapitres encore en version provisoire ont été écartés.</p>
+<p>Ces travaux ont permis de finaliser la release d’août 2025. Le manuscrit compte désormais 220&nbsp;pages et sa publication est prévue en fin d’année, en formats numérique et papier.</p>
+<p>Le choix de l’auto-édition s’est imposé afin de pouvoir adapter le livre au rythme des évolutions, sans attendre plusieurs années pour une nouvelle édition. Cette décision s’inscrit dans la continuité d’une approche open source.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-liens-utiles">🔗 Liens utiles<a href="https://framework.agile4enterprise.com/blog/2025-08-25-version-aout#-liens-utiles" class="hash-link" aria-label="Lien direct vers 🔗 Liens utiles" title="Lien direct vers 🔗 Liens utiles">​</a></h2>
+<ul>
+<li>🌍 Page de lancement : <a href="https://agile4enterprise.com/lancement-framework-agile4enterprise-v1/" target="_blank" rel="noopener noreferrer">agile4enterprise.com/lancement-framework-agile4enterprise-v1</a></li>
+<li>📖 Guide complet en ligne : <a href="https://guide.agile4enterprise.com/docs" target="_blank" rel="noopener noreferrer">guide.agile4enterprise.com</a></li>
+<li>💻 GitHub : <a href="https://github.com/Agile4Enterprise/guide" target="_blank" rel="noopener noreferrer">github.com/Agile4Enterprise/guide</a></li>
+</ul>]]></content>
+        <author>
+            <name>Laurent Morisseau</name>
+            <uri>https://www.morisseauconsulting.com/</uri>
+        </author>
+        <category label="guide" term="guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clôture de la phase de relecture du guide A4E (v1)]]></title>
         <id>https://framework.agile4enterprise.com/blog/2025-07-22-version-juillet</id>
